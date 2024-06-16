@@ -5,6 +5,7 @@ btpanel/baota:7.9.4-lnmp
 registry
 linkease/webvirtcloud
 onething1/wxedge
+gogs/gogs
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 xiaoyaliu/alist
