@@ -8,6 +8,9 @@ onething1/wxedge
 gogs/gogs
 joyqi/typecho:nightly-php7.4
 allanpk716/chinesesubfinder:latest-lite
+corentinth/it-tools
+cnk3x/xunlei
+joyqi/typecho:nightly-php7.4
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 xiaoyaliu/alist
