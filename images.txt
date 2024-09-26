@@ -2,6 +2,7 @@ nginx
 #支持私库
 xhofe/alist:latest
 btpanel/baota:7.9.4-lnmp
+btpanel/baota:9.0_lts_lnmp
 registry
 linkease/webvirtcloud
 onething1/wxedge
